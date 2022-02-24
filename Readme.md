@@ -17,8 +17,8 @@ Project was done in:
 
 #### SCREENSHOTS
 
-<img width="250" height="500" src="https://raw.githubusercontent.com/Crowntopsss/CWCalculator/main/screenshot1.png" alt="">  
-<img width="250" height="500" src="https://raw.githubusercontent.com/Crowntopsss/CWCalculator/main/screenshot2.png" alt="">
+<img width="250" height="500" src="https://raw.githubusercontent.com/Crowntopsss/CWCalculator/master/screenshot1.png" alt="">  
+<img width="250" height="500" src="https://raw.githubusercontent.com/Crowntopsss/CWCalculator/master/screenshot2.png" alt="">
 
 
 
