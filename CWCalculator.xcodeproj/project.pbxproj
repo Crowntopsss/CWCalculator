@@ -40,6 +40,8 @@
 		CDDB6C9925A440AF00C27012 /* LineMarkerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDDB6C8B25A440AF00C27012 /* LineMarkerView.swift */; };
 		CDDB6CA325A4416800C27012 /* Readme.md in Resources */ = {isa = PBXBuildFile; fileRef = CDDB6C9C25A4416800C27012 /* Readme.md */; };
 		D1B021C827C74E110017A821 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D1B021C727C74E110017A821 /* Main.storyboard */; };
+		D1B0221E27C762D20017A821 /* screenshot2.png in Resources */ = {isa = PBXBuildFile; fileRef = D1B0221C27C762D20017A821 /* screenshot2.png */; };
+		D1B0221F27C762D20017A821 /* screenshot1.png in Resources */ = {isa = PBXBuildFile; fileRef = D1B0221D27C762D20017A821 /* screenshot1.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -79,6 +81,8 @@
 		CDDB6C8B25A440AF00C27012 /* LineMarkerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LineMarkerView.swift; sourceTree = "<group>"; };
 		CDDB6C9C25A4416800C27012 /* Readme.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = Readme.md; sourceTree = "<group>"; };
 		D1B021C727C74E110017A821 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
+		D1B0221C27C762D20017A821 /* screenshot2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot2.png; sourceTree = "<group>"; };
+		D1B0221D27C762D20017A821 /* screenshot1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = screenshot1.png; sourceTree = "<group>"; };
 		E40157FE94D0CE923C4AD476 /* Pods-CWCalculator.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-CWCalculator.debug.xcconfig"; path = "Target Support Files/Pods-CWCalculator/Pods-CWCalculator.debug.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -106,6 +110,8 @@
 			isa = PBXGroup;
 			children = (
 				CDDB6C9C25A4416800C27012 /* Readme.md */,
+				D1B0221D27C762D20017A821 /* screenshot1.png */,
+				D1B0221C27C762D20017A821 /* screenshot2.png */,
 				CDDB6C3D25A43E4C00C27012 /* CWCalculator */,
 				CDDB6C3C25A43E4C00C27012 /* Products */,
 				EBFDC01456E202B0F7FA9448 /* Pods */,
@@ -330,9 +336,11 @@
 				CDDB6C6525A43F4C00C27012 /* MontserratAlternates-SemiBold.ttf in Resources */,
 				CDDB6C6225A43F4C00C27012 /* MontserratAlternates-Medium.ttf in Resources */,
 				CDDB6C6025A43F4C00C27012 /* Color.xcassets in Resources */,
+				D1B0221F27C762D20017A821 /* screenshot1.png in Resources */,
 				CDDB6C5F25A43F4C00C27012 /* Assets.xcassets in Resources */,
 				D1B021C827C74E110017A821 /* Main.storyboard in Resources */,
 				CDDB6C6125A43F4C00C27012 /* MontserratAlternates-Bold.ttf in Resources */,
+				D1B0221E27C762D20017A821 /* screenshot2.png in Resources */,
 				CDDB6CA325A4416800C27012 /* Readme.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
